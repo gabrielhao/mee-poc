@@ -1,2 +1,2 @@
 #Discovery Engine
-Discovery engine collects data from agents, merge and transforms into graphs
+Discovery engine stores data from agents, merges and transforms into graphs, written by python.
